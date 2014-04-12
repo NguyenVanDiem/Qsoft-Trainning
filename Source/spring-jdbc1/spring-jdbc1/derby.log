@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+2014-04-11 21:38:57.846 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.4.1.3 - (648739): instance a816c00e-0145-52ba-afd9-000002ec5000
+on database directory D:\Java\SampleProject\spring-jdbc1\spring-jdbc1\target\ngcdb  
+
+Database Class Loader started - derby.database.classpath=''
+
+2014-04-11 21:39:03.660 GMT:
+Shutting down instance a816c00e-0145-52ba-afd9-000002ec5000
+----------------------------------------------------------------
